@@ -2,5 +2,6 @@
 
 Desafio de projeto sobre Git/Github
 
-##links uteis
-https://daringfireball.net/projects/markdown/syntax
+##links utei
+
+<!-- [sintaxe basica markows] (https://www.markdows.org/basic-syntax/)
