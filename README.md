@@ -3,5 +3,4 @@
 Desafio de projeto sobre Git/Github
 
 ##links uteis
-
-(https://dillinger.io/)   
+https://daringfireball.net/projects/markdown/syntax
