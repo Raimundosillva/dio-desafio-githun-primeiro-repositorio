@@ -1,6 +1,5 @@
-# repositorio do desafio de projeto sobre Git/Github da Dio
-Desafio de proje sobre Git/Github
+# Desafio de projet sobre Git/Github da Dio
+Repositorio  criado para o  Desafio Proje
 
-## links Uteis 
-[Sintaxe Basica Markdown](https://www.Markdownguide.org/basic-syntax/)
-
+## links Uteis
+[Sintaxe Basica Mardowns](https://www.markdownguide.org/basic-syntax/)
